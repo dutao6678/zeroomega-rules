@@ -9,7 +9,3 @@
 ## 说明
 
 本项目基于 GFWList 自动同步，上游规则可能包含各类受限域名，仅用于网络分流。
-
-## 订阅地址
-
-https://raw.githubusercontent.com/dutao6678/zeroomega-rules/main/adu-proxy.txt
