@@ -1,0 +1,72 @@
+[AutoProxy 0.2.9]
+
+! ==================================================
+! Adu Personal ZeroOmega Rules
+! Maintainer: dutao6678
+! ==================================================
+
+! ================= OpenAI =================
+||openai.com
+||chatgpt.com
+||chat.com
+||oaistatic.com
+||oaiusercontent.com
+||sora.com
+
+! ================= Anthropic =================
+||anthropic.com
+||claude.ai
+||claude.com
+
+! ================= Google / Gemini =================
+||google.com
+||googleapis.com
+||googleusercontent.com
+||gstatic.com
+||googlevideo.com
+||gemini.google.com
+||ai.google.dev
+||aistudio.google.com
+
+! ================= GitHub =================
+||github.com
+||github.io
+||githubusercontent.com
+||githubassets.com
+||githubcopilot.com
+
+! ================= AI Tools =================
+||huggingface.co
+||civitai.com
+||lovart.ai
+||perplexity.ai
+||lmarena.ai
+||mistral.ai
+||cerebras.ai
+||manus.im
+||leonardo.ai
+||openart.ai
+||poe.com
+||suno.com
+
+! ================= Design =================
+||behance.net
+||artstation.com
+||deviantart.com
+||dribbble.com
+
+! ================= Development =================
+||stackoverflow.com
+||npmjs.com
+||pypi.org
+||docker.com
+||docker.io
+
+! ================= Blender / 3D =================
+||blender.org
+
+! ================= Fonts / Typography =================
+||fonts.google.com
+||fontawesome.com
+||myfonts.com
+||fontspring.com
