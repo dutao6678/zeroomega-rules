@@ -32,6 +32,12 @@ jobs:
 
           base64 --decode upstream-gfwlist-base64.txt > upstream-gfwlist.txt
 
+      - name: Download Loyalsoldier proxy list
+        run: |
+          curl -fsSL --retry 3 \
+          "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt" \
+          -o loyalsoldier-proxy.txt
+
       - name: Build Adu ZeroOmega rules
         run: |
           {
@@ -40,17 +46,28 @@ jobs:
             echo "! Adu ZeroOmega Rules"
             echo "! Maintainer: dutao6678"
             echo "! Repository: https://github.com/dutao6678/zeroomega-rules"
-            echo "! Upstream: https://github.com/gfwlist/gfwlist"
-            echo "! Upstream License: LGPL-2.1"
+            echo "! Upstream 1: https://github.com/gfwlist/gfwlist"
+            echo "! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat"
             echo "! Generated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             echo "! =================================================="
             echo ""
+
             echo "! ################ ADU CUSTOM RULES ################"
             sed '/^\[AutoProxy 0\.2\.9\]/d' adu-custom.txt
             echo ""
+
             echo "! ################ GFWLIST ################"
             sed '/^\[AutoProxy 0\.2\.9\]/d' upstream-gfwlist.txt
-          } > adu-proxy.txt
+            echo ""
+
+            echo "! ############ LOYALSOLDIER PROXY LIST ############"
+            sed 's/^/||/' loyalsoldier-proxy.txt
+          } > combined-rules.txt
+
+          awk '
+            /^!/ { print; next }
+            NF && !seen[$0]++ { print }
+          ' combined-rules.txt > adu-proxy.txt
 
       - name: Commit updated rules
         run: |
