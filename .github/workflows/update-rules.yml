@@ -1,0 +1,65 @@
+name: Update ZeroOmega Rules
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 */6 * * *"
+
+  push:
+    branches:
+      - main
+    paths:
+      - "adu-custom.txt"
+      - ".github/workflows/update-rules.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest GFWList
+        run: |
+          curl -fsSL --retry 3 \
+          "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
+          -o upstream-gfwlist.txt
+
+      - name: Build Adu ZeroOmega rules
+        run: |
+          {
+            echo "[AutoProxy 0.2.9]"
+            echo "! =================================================="
+            echo "! Adu ZeroOmega Rules"
+            echo "! Maintainer: dutao6678"
+            echo "! Repository: https://github.com/dutao6678/zeroomega-rules"
+            echo "! Upstream: https://github.com/gfwlist/gfwlist"
+            echo "! Upstream License: LGPL-2.1"
+            echo "! Generated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            echo "! =================================================="
+            echo ""
+            echo "! ################ ADU CUSTOM RULES ################"
+            sed '/^\[AutoProxy 0\.2\.9\]/d' adu-custom.txt
+            echo ""
+            echo "! ################ GFWLIST ################"
+            sed '/^\[AutoProxy 0\.2\.9\]/d' upstream-gfwlist.txt
+          } > adu-proxy.txt
+
+      - name: Commit updated rules
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add adu-proxy.txt
+
+          if git diff --cached --quiet; then
+            echo "No rule changes."
+          else
+            git commit -m "Auto update ZeroOmega rules"
+            git push
+          fi
