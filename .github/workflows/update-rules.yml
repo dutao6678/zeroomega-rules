@@ -24,11 +24,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download latest GFWList
+      - name: Download and decode latest GFWList
         run: |
           curl -fsSL --retry 3 \
           "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
-          -o upstream-gfwlist.txt
+          -o upstream-gfwlist-base64.txt
+
+          base64 --decode upstream-gfwlist-base64.txt > upstream-gfwlist.txt
 
       - name: Build Adu ZeroOmega rules
         run: |
