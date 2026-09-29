@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-09-29 18:05:53 UTC
+! Generated: 2026-09-29 22:17:02 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -14434,6 +14434,7 @@ iipdigital.usembassy.gov
 ||huanyuju.com
 ||huarenav.com
 ||huarenporn.com
+||huarun.win
 ||huashangnews.com
 ||huashundg.com
 ||huati.cc
@@ -17260,6 +17261,7 @@ iipdigital.usembassy.gov
 ||messytube.com
 ||met-nude.com
 ||meta.ai
+||metaaivm.com
 ||metabora.io
 ||metabrainz.org
 ||metacloud.com
@@ -18169,6 +18171,7 @@ iipdigital.usembassy.gov
 ||muscache.com
 ||muscdn.com
 ||musclegirlflix.com
+||muse.ai
 ||mushroomtrack.com
 ||mushymush.tv
 ||musical.ly
@@ -19431,6 +19434,7 @@ iipdigital.usembassy.gov
 ||openbook.org.tw
 ||opencas.io
 ||openclaw.ai
+||opencode.ai
 ||opencollective.com
 ||opencreate.org
 ||opendns.com
@@ -27155,6 +27159,8 @@ iipdigital.usembassy.gov
 ||full:gamedownloads-rockstargames-com.akamaized.net
 ||full:gamer-cds.cdn.hinet.net
 ||full:gamer2-cds.cdn.hinet.net
+||full:geminiweb-pa.clients.google.com
+||full:geminiweb-pa.clients6.google.com
 ||full:gigabyte2.azureedge.net
 ||full:github-api.arkoselabs.com
 ||full:github-cloud.s3.amazonaws.com
