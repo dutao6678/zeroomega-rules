@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-09-30 05:34:55 UTC
+! Generated: 2026-09-30 12:37:42 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: 5B6a4Mo0FZooq7MTmz+lvw
+! Checksum: zkRAxYnnt0xHM1QDttHa+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 26 Sep 2026 12:29:53 +0000
+! Last Modified: Wed, 30 Sep 2026 11:59:41 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2108,6 +2108,7 @@ iipdigital.usembassy.gov
 ||eyevio.jp
 ||eyny.com
 !--------------------FF-------------------------
+||fuyin116.com
 ||freedom.gov
 ||hyperbeam.com
 ||flowgpt.com
@@ -2843,6 +2844,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||muse.ai
 ||historylines.net
 ||kiwix.org
 ||mceindex.com
@@ -18171,7 +18173,6 @@ iipdigital.usembassy.gov
 ||muscache.com
 ||muscdn.com
 ||musclegirlflix.com
-||muse.ai
 ||mushroomtrack.com
 ||mushymush.tv
 ||musical.ly
