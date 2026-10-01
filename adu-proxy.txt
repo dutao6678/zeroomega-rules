@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-09-30 22:17:44 UTC
+! Generated: 2026-10-01 05:57:59 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: zkRAxYnnt0xHM1QDttHa+A
+! Checksum: CheWtaDPKqOChbt73v8ErA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 30 Sep 2026 11:59:41 +0000
+! Last Modified: Thu, 01 Oct 2026 02:10:03 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4193,6 +4193,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wallhaven.cc
 ||wtfpass.com
 ||write.as
 ||windy.com
@@ -25142,7 +25143,6 @@ iipdigital.usembassy.gov
 ||walderis.ru
 ||wallberis.ru
 ||wallet.com
-||wallhaven.cc
 ||walmart
 ||walmart-content.com
 ||walmart.com
