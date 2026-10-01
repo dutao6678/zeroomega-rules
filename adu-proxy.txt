@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-01 05:57:59 UTC
+! Generated: 2026-10-01 13:18:58 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
