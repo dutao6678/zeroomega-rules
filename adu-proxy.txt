@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-06 00:04:53 UTC
+! Generated: 2026-10-06 06:23:33 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: SJ4ZT1jJaEPEW09IhazquA
+! Checksum: /H8mNyyfTaB1R7oigU/aOA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 02 Oct 2026 13:31:18 +0000
+! Last Modified: Tue, 06 Oct 2026 06:17:00 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1173,6 +1173,22 @@ www.aolnews.com
 ||vine.co
 ||x.com
 !!---Taiwan---
+||khc.edu.tw
+||vscc.org.tw
+||poland.tw
+||tybio.com.tw
+||twfhcsec.com.tw
+||ttl.com.tw
+||tfd.org.tw
+||nstc.org.tw
+||mirdc.org.tw
+||landbank.com.tw
+||indsr.org.tw
+||icdf.org.tw
+||eximbank.com.tw
+||csc.com.tw
+||cpc.com.tw
+||aidc.com.tw
 ||taiwanembassy.org
 ||roc-taiwan.org
 ||twgov.tw
@@ -1184,6 +1200,7 @@ www.aolnews.com
 ||teco-mo.org
 ||kinmen.org.tw
 !!---USA---
+||ned.org
 ||spaceforce.mil
 ||airuniversity.af.edu
 ||supremecourt.gov
@@ -1499,6 +1516,8 @@ iipdigital.usembassy.gov
 !--boxun.azurewebsites.net doesn't exist.
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||boylove.cc
+||blue-plus.net
 ||briarproject.org
 ||bilinovel.com
 ||boomplay.com
@@ -1666,6 +1685,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
@@ -1904,6 +1924,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||dh.net
 ||divdyn.com
 ||data18.com
 ||dt18.com
@@ -2398,6 +2419,9 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hentaiclub.net
+||hanimeone.me
+||hanime1.com
 ||hentai.tv
 ||hkej.com
 ||hkong.hk
@@ -2530,6 +2554,7 @@ iipdigital.usembassy.gov
 ||hypothes.is
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||ipac.global
 ||infosec.exchange
 ||investing.com
 ||idcflare.com
@@ -2654,6 +2679,9 @@ iipdigital.usembassy.gov
 ||iyouport.com
 ||iyouport.org
 !--------------------JJ-------------------------
+||javchu.com
+||jkforum.net
+||javfree.me
 ||jhelab.org
 ||justmysockscn.com
 ||justmysocks.net
@@ -2844,6 +2872,8 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||matichon.co.th
+||moeli-desu.com
 ||muse.ai
 ||historylines.net
 ||kiwix.org
@@ -2860,6 +2890,8 @@ iipdigital.usembassy.gov
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
+||missav.live
+||missav.ai
 ||missav.ws
 ||news.mt.co.kr
 ||musixmatch.com
@@ -3009,9 +3041,10 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nationthailand.com
 ||note.com
 ||nthlink.com
-||neodb.social 
+||neodb.social
 ||nfscofficial.com
 ||nfsc.press
 ||newstimes.com
@@ -3380,6 +3413,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||qingse.one
 ||qobuz.com
 ||quakemachinex.com
 |http://qmp4.com
@@ -3400,6 +3434,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||rocmgov.org
 ||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
@@ -4337,6 +4372,7 @@ iipdigital.usembassy.gov
 ||wuw.red
 ||wwitv.com
 !--------------------XX-------------------------
+||xx.net
 ||x86.fr
 ||xuan.com.my
 ||xdaforums.com
@@ -8508,7 +8544,6 @@ iipdigital.usembassy.gov
 ||boycall.com
 ||boyfriendtv.com
 ||boylabs.net
-||boylove.cc
 ||boylove.com
 ||boylove.live
 ||boylove1.cc
@@ -13845,7 +13880,6 @@ iipdigital.usembassy.gov
 ||hentaichan.me
 ||hentaicity.com
 ||hentaicloud.com
-||hentaiclub.net
 ||hentaicomic.ru
 ||hentaicomics.asia
 ||hentaicomics.life
@@ -15663,7 +15697,6 @@ iipdigital.usembassy.gov
 ||javfilms.com
 ||javforme.ninja
 ||javfree.la
-||javfree.me
 ||javfree.sh
 ||javfuck.net
 ||javfull.net
@@ -15853,7 +15886,6 @@ iipdigital.usembassy.gov
 ||jkbeats.com
 ||jkf.net
 ||jkface.net
-||jkforum.net
 ||jkycjk.mom
 ||jkzvz.shop
 ||jkzw.shop
@@ -17751,8 +17783,6 @@ iipdigital.usembassy.gov
 ||mirrorsedge.net
 ||mirrorsedge2.com
 ||mirrorsedge2d.com
-||missav.ai
-||missav.live
 ||missav.uno
 ||missav.vip
 ||missav123.com
@@ -18508,7 +18538,6 @@ iipdigital.usembassy.gov
 ||nenastran.com
 ||nenitas.club
 ||nentindo.net
-||neodb.social
 ||neoforged.net
 ||neotokyo.supertop-100.com
 ||neovim.io
@@ -20843,7 +20872,6 @@ iipdigital.usembassy.gov
 ||qdiehzz7.me
 ||qiao-cn.com
 ||qinav.com
-||qingse.one
 ||qise100.com
 ||qlink.to
 ||qmap.pub
