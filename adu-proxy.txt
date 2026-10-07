@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-07 13:27:19 UTC
+! Generated: 2026-10-07 23:06:44 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -17250,6 +17250,7 @@ iipdigital.usembassy.gov
 ||meetfasttrack.com
 ||meetsmartbook.com
 ||meetyourdevices.com
+||megaad.nz
 ||megacamz.com
 ||megaeth.com
 ||megafilmporno.com
@@ -17259,10 +17260,12 @@ iipdigital.usembassy.gov
 ||megamarket.ru
 ||megamarket.tech
 ||megamon.co.kr
+||megapay.nz
 ||megaphone.fm
 ||megapornfreehd.com
 ||megaporno.com.br
 ||megapornpics.com
+||megas4.com
 ||megasrv.de
 ||megatitsminka.com
 ||megogo.net
@@ -23803,6 +23806,7 @@ iipdigital.usembassy.gov
 ||transangels.com
 ||transarmuito.com
 ||transcamslive.com
+||transfer.it
 ||transferwise.com
 ||translatetheweb.com
 ||translatewiki.net
