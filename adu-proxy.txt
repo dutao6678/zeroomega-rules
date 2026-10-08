@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-08 13:32:55 UTC
+! Generated: 2026-10-08 23:22:28 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -27067,6 +27067,8 @@ iipdigital.usembassy.gov
 ||full:cloudsync-prod.s3.amazonaws.com
 ||full:configuration-lb.ls-apple.com.akadns.net
 ||full:copilot-proxy.githubusercontent.com
+||full:copilot-telemetry-service.githubusercontent.com
+||full:copilot-telemetry.githubusercontent.com
 ||full:copilot-workspace.githubnext.com
 ||full:copilotprodattachments.blob.core.windows.net
 ||full:crl.microsoft.com
@@ -27235,6 +27237,8 @@ iipdigital.usembassy.gov
 ||full:img-s-msn-com.akamaized.net
 ||full:impala-media-production.s3.amazonaws.com
 ||full:imperial.insendi.com
+||full:incoming-telemetry.thunderbird.net
+||full:incoming.telemetry.mozilla.org
 ||full:lastfm-img.freetls.fastly.net
 ||full:lastfm.freetls.fastly.net
 ||full:lazer.ppy.sh
