@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-15 21:24:58 UTC
+! Generated: 2026-10-16 04:34:36 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -20250,6 +20250,7 @@ iipdigital.usembassy.gov
 ||playstation
 ||playstation.com
 ||playstation.net
+||playstationnetwork.com
 ||playvalorant.com
 ||playvids.com
 ||playwarcraft3.com
@@ -21762,6 +21763,7 @@ iipdigital.usembassy.gov
 ||scatville.com
 ||scb.ru
 ||scdn.co
+||scea.com
 ||scene7.com
 ||scenesource.me
 ||scharferporno.com
@@ -22592,6 +22594,7 @@ iipdigital.usembassy.gov
 ||sony.com.pa
 ||sony.com.pe
 ||sony.com.ph
+||sony.com.py
 ||sony.com.sg
 ||sony.com.sv
 ||sony.com.tr
@@ -22635,8 +22638,10 @@ iipdigital.usembassy.gov
 ||sonydna.com
 ||sonyentertainmentnetwork.com
 ||sonyglobalsolutions.jp
+||sonyinteractive.com
 ||sonykigyo.jp
 ||sonylatvija.com
+||sonymusic.com.hk
 ||sonynetwork.co.jp
 ||sonypcl.jp
 ||sonypictures.com
