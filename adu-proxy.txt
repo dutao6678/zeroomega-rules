@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-16 04:34:36 UTC
+! Generated: 2026-10-16 11:27:15 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: /H8mNyyfTaB1R7oigU/aOA
+! Checksum: A0U3DIfmPkhrgyOwpfBLoA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 06 Oct 2026 06:17:00 +0000
+! Last Modified: Fri, 16 Oct 2026 10:12:31 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -724,6 +724,8 @@ www.aolnews.com
 !!---Dynu---
 ||dynu.com
 !!---Facebook---
+||meta.ai
+||metaaivm.com
 ||accountkit.com
 ||cdninstagram.com
 ||f8.com
@@ -1263,6 +1265,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||7x24hrs.com
 ||123av.me
 ||123av.com
 ||18comic.vip
@@ -17337,8 +17340,6 @@ iipdigital.usembassy.gov
 ||messybrainz.org
 ||messytube.com
 ||met-nude.com
-||meta.ai
-||metaaivm.com
 ||metabora.io
 ||metabrainz.org
 ||metacloud.com
