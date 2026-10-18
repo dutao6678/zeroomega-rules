@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-17 20:38:09 UTC
+! Generated: 2026-10-18 04:36:53 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -9925,6 +9925,7 @@ iipdigital.usembassy.gov
 ||cursor.com
 ||cursor.sh
 ||cursorapi.com
+||cursorvm.com
 ||curve.fi
 ||curvybbwwives.com
 ||curvyerotic.com
@@ -19519,6 +19520,7 @@ iipdigital.usembassy.gov
 ||op.gg
 ||op7979.com
 ||opac-project.eu
+||openai.org
 ||openamt.com
 ||openapiplatform.com
 ||openapiservice.com
@@ -21773,6 +21775,7 @@ iipdigital.usembassy.gov
 ||scholarpedia.org
 ||schwab.com.sg
 ||schwabassetmanagement.com
+||schwabcdn.com
 ||schwabplan.com
 ||sci-hub.ee
 ||sci-hub.it.nf
@@ -23704,6 +23707,8 @@ iipdigital.usembassy.gov
 ||timestalks.com
 ||timeweb.cloud
 ||timeweb.com
+||timeweb.tech
+||timewebcloud.kz
 ||timi1.me
 ||timo0.com
 ||ting53.xyz
@@ -24142,6 +24147,7 @@ iipdigital.usembassy.gov
 ||typekit.com
 ||typekit.net
 ||typenetwork.com
+||typesafe.ai
 ||typesquare.com
 ||typography.com
 ||tyre-cadcam.com
