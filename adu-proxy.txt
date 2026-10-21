@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-20 21:38:47 UTC
+! Generated: 2026-10-21 04:51:12 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -6976,8 +6976,10 @@ iipdigital.usembassy.gov
 ||avinetworks.com
 ||avinin.com
 ||avira.com
+||avito.com
 ||avito.ru
 ||avito.st
+||avito.tech
 ||avizoon.site
 ||avizoone.com
 ||avjb.com
