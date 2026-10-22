@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-21 21:44:34 UTC
+! Generated: 2026-10-22 04:50:34 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -6158,14 +6158,17 @@ iipdigital.usembassy.gov
 ||anon-v.lol
 ||ansarbank.com
 ||ansin.erodayo.com
+||ant.dev
 ||antarvasnaclips.com
 ||antarvasnax.com
 ||antenna.co.kr
 ||anthemgame.com
 ||anthemthegame.com
+||anthropic.team
 ||antiphishing.nl
 ||antiphishing.ru
 ||antiwave.net
+||antspace.dev
 ||anudetube.com
 ||anxiangxing.com
 ||anybunny.org
@@ -9237,6 +9240,7 @@ iipdigital.usembassy.gov
 ||charmescorts.com
 ||charticulator.com
 ||chatango.com
+||chatbotclaude.com
 ||chatgpt.livekit.cloud
 ||chatgptvideo.xyz
 ||chatgptvideob.buzz
@@ -9477,9 +9481,15 @@ iipdigital.usembassy.gov
 ||classicnike.com
 ||classymomsex.com
 ||clau.de
+||claude.app
 ||claude.dev
+||claude.new
+||claude.site
+||claudeacademy.com
 ||claudemcpclient.com
 ||claudemcpcontent.com
+||claudepages.dev
+||claudestudio.com
 ||claudeusercontent.com
 ||clawhub.ai
 ||clck.ru
@@ -12460,6 +12470,17 @@ iipdigital.usembassy.gov
 ||fluidpreview.com
 ||flutter.dev
 ||flutterapp.com
+||fluxer.app
+||fluxer.com
+||fluxer.dev
+||fluxer.gg
+||fluxer.gift
+||fluxer.media
+||fluxer.tools
+||fluxerapp.com
+||fluxerstatic.com
+||fluxerstatus.com
+||fluxerusercontent.com
 ||fly.dev
 ||fly.io
 ||flyflv.com
@@ -27230,6 +27251,7 @@ iipdigital.usembassy.gov
 ||full:d3lh5kkip965lj.cloudfront.net
 ||full:d3nwj80emtnjeo.cloudfront.net
 ||full:d3r7nsslvs6aaf.cloudfront.net
+||full:d3stzm2eumvgb4.cloudfront.net
 ||full:d3ucl0eqgl80l5.cloudfront.net
 ||full:d3vd9lfkzbru3h.cloudfront.net
 ||full:d6d4ismr40iw.cloudfront.net
