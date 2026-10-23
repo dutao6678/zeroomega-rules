@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-22 21:37:47 UTC
+! Generated: 2026-10-23 04:52:50 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -4755,6 +4755,7 @@ iipdigital.usembassy.gov
 ||21vv.cc
 ||22112211.xyz
 ||2371tom.com
+||24.place
 ||24h.tv
 ||24hjav.com
 ||24porn.com
@@ -7931,6 +7932,8 @@ iipdigital.usembassy.gov
 ||blizzard.com
 ||blizzardgearstore.com
 ||blockchain.com
+||blockchair.com
+||blockchair.net
 ||blockfrost.io
 ||blog.descargasgay.com
 ||blog.excite.co.jp
@@ -9826,6 +9829,7 @@ iipdigital.usembassy.gov
 ||cq99.us
 ||cqcorea.com
 ||crabporn.com
+||craftifyx.com
 ||craigslist.org
 ||crankplayer.com
 ||crashbandicoot.com
@@ -9882,6 +9886,7 @@ iipdigital.usembassy.gov
 ||crustwebsites.net
 ||crypto.com
 ||cryptocompare.com
+||cryptoid.info
 ||cryptomus.com
 ||crypton.co.jp
 ||crysis.jp
@@ -10161,6 +10166,7 @@ iipdigital.usembassy.gov
 ||delcamtv.com
 ||delcamuniversity.com
 ||delcamusa.com
+||delets.cash
 ||delets.online
 ||delicious.com.au
 ||delivery-club.ru
@@ -12085,6 +12091,7 @@ iipdigital.usembassy.gov
 ||fanaken.com
 ||fanatical.com
 ||fandango.com
+||fanfiction.net
 ||fanfictionero.com
 ||fanfox.net
 ||fangsung.com
@@ -12912,6 +12919,7 @@ iipdigital.usembassy.gov
 ||fundraisingwithfacebook.com
 ||fundsupermart.com
 ||funimation.com
+||funko.com
 ||funnyfacebook.org
 ||funnyordie.com
 ||funpay.com
@@ -12980,6 +12988,7 @@ iipdigital.usembassy.gov
 ||game-platform.net
 ||game-repack.site
 ||gameapps.hk
+||gamebanana.com
 ||gamebase.com.tw
 ||gamebeforethegame.com
 ||gamebiz.jp
@@ -13192,6 +13201,7 @@ iipdigital.usembassy.gov
 ||getpocket.com
 ||getporn.tv
 ||getprintersupports.com
+||getsafety.com
 ||getscorecash.com
 ||getsentry.com
 ||getsexgames.com
@@ -13323,6 +13333,8 @@ iipdigital.usembassy.gov
 ||glamourtits.com
 ||glasamerike.net
 ||gleline.com
+||glitchprod.com
+||glitchproductions.store
 ||glitchwave.com
 ||global-sci.org
 ||globaledu.org
@@ -16413,6 +16425,7 @@ iipdigital.usembassy.gov
 ||kumo.com
 ||kun66.xyz
 ||kundun1069.com
+||kurs.expert
 ||kusugurizanmai.com
 ||kutjeporno.com
 ||kuzbank.ru
@@ -16970,6 +16983,7 @@ iipdigital.usembassy.gov
 ||makeitrealcontest.com
 ||makerepeater.jp
 ||makesenseofdata.com
+||makeship.com
 ||makeshop.jp
 ||makingstartshere.com
 ||maktoob.com
@@ -19679,6 +19693,7 @@ iipdigital.usembassy.gov
 ||overthumbs.com
 ||ovid.com
 ||owl.li
+||ownaj.com
 ||owxd.xyz
 ||oxfordaasc.com
 ||oxfordartonline.com
@@ -20950,6 +20965,7 @@ iipdigital.usembassy.gov
 ||pyrobot.org
 ||python.org
 ||pythonhosted.org
+||pyup.io
 ||pzforever.skin
 ||pzforever01.homes
 ||pzhanfor.today
@@ -21072,6 +21088,7 @@ iipdigital.usembassy.gov
 ||r18lu-avi.shop
 ||r18lu.com
 ||r2.dev
+||r2modman.com
 ||r34porn.net
 ||rabbitcounter.com
 ||rabbitscams.com
@@ -21657,6 +21674,7 @@ iipdigital.usembassy.gov
 ||safebooru.org
 ||safeliner.tech
 ||safepal.com
+||safetycli.com
 ||saffrontech.com
 ||sagabank.co.jp
 ||sage-observability.tech
@@ -22990,6 +23008,7 @@ iipdigital.usembassy.gov
 ||steamgames.com
 ||steaminventoryhelper.com
 ||steamofporn.com
+||steamos.cloud
 ||steampowered.com
 ||steamserver.net
 ||steamunlocked.net
@@ -23503,6 +23522,7 @@ iipdigital.usembassy.gov
 ||tgirlcentral.com
 ||tgirlpostop.com
 ||tgp6.com
+||tgtime.store
 ||tgtube.com
 ||tgutube.com
 ||thai-xxx.com
@@ -23693,6 +23713,8 @@ iipdigital.usembassy.gov
 ||thunderbird.net
 ||thunderbolttechnology.net
 ||thundermail.com
+||thunderstore.io
+||thunderstore.org
 ||thz7.net
 ||thzu.cc
 ||tiantang.today
@@ -23784,6 +23806,7 @@ iipdigital.usembassy.gov
 ||tmei-taoyuan.com
 ||tmi.me
 ||tmiaf.ru
+||tmimgcdn.com
 ||tmpp.org
 ||tmsnrt.rs
 ||tnatryouts.com
@@ -25728,6 +25751,7 @@ iipdigital.usembassy.gov
 ||worldoftanks.eu
 ||worldofwarcraft.com
 ||worldofwarplanes.com
+||worldofwarships.asia
 ||worldofwarships.com
 ||worldpornvideos.com
 ||worldscientific.com
@@ -26742,6 +26766,7 @@ iipdigital.usembassy.gov
 ||yourwifemymeat.com
 ||yourxxxvideos.pro
 ||youskbe.com
+||youtooz.com
 ||youtrack.cloud
 ||youtrannytube.com
 ||youtube
@@ -27331,6 +27356,7 @@ iipdigital.usembassy.gov
 ||full:firstsearch.oclc.org
 ||full:fontshop-prod-responsive-images.s3.amazonaws.com
 ||full:foxnewsplayer-a.akamaihd.net
+||full:funko.my.site.com
 ||full:gamedownloads-rockstargames-com.akamaized.net
 ||full:gamer-cds.cdn.hinet.net
 ||full:gamer2-cds.cdn.hinet.net
