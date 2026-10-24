@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-24 11:04:06 UTC
+! Generated: 2026-10-24 15:58:42 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: g+fedlXGZVwn/fQGGJJkEA
+! Checksum: S5d7LoUOkmK8Xg7fyDIAYw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 23 Oct 2026 10:29:54 +0000
+! Last Modified: Sat, 24 Oct 2026 15:33:57 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1265,6 +1265,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.org
 ||7x24hrs.com
 ||123av.me
 ||123av.com
@@ -2050,6 +2051,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
 ||economist.com
@@ -2735,6 +2737,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kimootoko.net
 ||kards.com
 ||kfor.com
 ||kathmandupost.com
@@ -2877,6 +2880,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
 ||muse.ai
@@ -3046,6 +3050,9 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||njavtv.com
+||njav.tv
+||njav.com
 ||nationthailand.com
 ||note.com
 ||nthlink.com
@@ -3230,6 +3237,7 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||po-kaki-to.com
 ||perma.cc
 ||pcgamesn.com
 ||penguin.com.au
@@ -4479,6 +4487,7 @@ iipdigital.usembassy.gov
 ||yysub.net
 ||yzzk.com
 !--------------------ZZ-------------------------
+||zozovideo.com
 ||zenmux.ai
 ||zhangzhehan.net
 ||zaochenbao.com
@@ -19065,8 +19074,6 @@ iipdigital.usembassy.gov
 ||nixos.wiki
 ||nixpkgs.org
 ||niziero.info
-||njav.tv
-||njavtv.com
 ||njpw.co.jp
 ||njpw1972.com
 ||nkcbank.ru
