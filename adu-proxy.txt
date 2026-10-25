@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-24 20:52:11 UTC
+! Generated: 2026-10-25 04:44:05 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -4728,6 +4728,7 @@ iipdigital.usembassy.gov
 ||1password.co
 ||1password.com
 ||1password.community
+||1password.dev
 ||1password.eu
 ||1password.io
 ||1passwordservices.com
@@ -9187,6 +9188,10 @@ iipdigital.usembassy.gov
 ||cdnvideohub.com
 ||cdnxxx-proxy.co
 ||cdnxxx-proxy.xyz
+||cdpred.services
+||cdprojekt.com
+||cdprojekt.red
+||cdprojektred.com
 ||cebay.com
 ||ceicdata.com
 ||celebforum.co
@@ -9988,6 +9993,7 @@ iipdigital.usembassy.gov
 ||cyber-bay.org
 ||cybercrimecon.com
 ||cybermondaybeats4sale.com
+||cyberpunk.net
 ||cybersport.ru
 ||cybertrust.co.jp
 ||cybertrust.ne.jp
@@ -20293,6 +20299,7 @@ iipdigital.usembassy.gov
 ||playfabapi.com
 ||playfamily.ru
 ||playforceone.com
+||playgwent.com
 ||playhearthstone.com
 ||playmation.com
 ||playmeow.com
@@ -23669,6 +23676,7 @@ iipdigital.usembassy.gov
 ||thevirtualsexreview.com
 ||thewaltdisneycompany.com
 ||theweek.in
+||thewitcher.com
 ||thewonderful101.com
 ||theync.com
 ||theyxxx.com
@@ -26064,15 +26072,15 @@ iipdigital.usembassy.gov
 ||xn--d4ty0ojsqzfd.com
 ||xn--e1adjldbbpv.xn--90ais
 ||xn--e1aigb.xn--p1ai
-||xn--fiqs8s1bxp3anr7a.hk
-||xn--fiqs8s1bxp3anr7a.xn--j6w193g
-||xn--fiqs8s1byzqyvl.hk
-||xn--fiqs8s1byzqyvl.xn--j6w193g
+||xn--fiq80y.hk
+||xn--fiq80y.xn--j6w193g
+||xn--fiq80y3xbiwr.hk
+||xn--fiq80y3xbiwr.xn--j6w193g
+||xn--fiq80y3xbiwrs0kiu9d.hk
+||xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 ||xn--fiqs8sxootzz.xn--hxt814e
 ||xn--flw351e
 ||xn--flw351e.com
-||xn--gdt08a.hk
-||xn--gdt08a.xn--j6w193g
 ||xn--ggle-55da.com
 ||xn--gmq348bujlxrb.com
 ||xn--gmq92kd2rm1kx34a.com
@@ -26090,19 +26098,13 @@ iipdigital.usembassy.gov
 ||xn--kput3imi374g.xn--hxt814e
 ||xn--mts47c3w9b1qr.net
 ||xn--mtswd61ejxq.com
-||xn--mxtq18a.hk
-||xn--mxtq18a.xn--j6w193g
 ||xn--pearsonenespaol-brb.com
 ||xn--pssu7ci2j23mp9ny48b.hk
 ||xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-||xn--pssu7cv61af1tcs59bnvd.hk
-||xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+||xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 ||xn--pssu7cv61af44b.hk
 ||xn--pssu7cv61af44b.xn--j6w193g
-||xn--pssu7cv61ahw8aq79bztd.hk
-||xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-||xn--pssu7cv61ahwcb1p2yk.hk
-||xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+||xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 ||xn--q41am8x.com
 ||xn--qcka1pmc
 ||xn--qoq462m.com
@@ -26116,11 +26118,7 @@ iipdigital.usembassy.gov
 ||xn--uis17aj9kmuf.com
 ||xn--uis44a.xn--j6w193g
 ||xn--urs05q.jp
-||xn--wcv22d.hk
-||xn--wcv22d.xn--j6w193g
 ||xn--wcvs22d.xn--j6w193g
-||xn--wcvs22d1m.hk
-||xn--wcvs22d1m.xn--j6w193g
 ||xn--x-qeu1ji09tzlg.biz
 ||xn--x-qeu1ji09tzlg.net
 ||xn--xsq421m.com
