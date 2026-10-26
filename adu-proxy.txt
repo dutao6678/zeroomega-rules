@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-26 13:06:48 UTC
+! Generated: 2026-10-26 22:41:27 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -5239,6 +5239,7 @@ iipdigital.usembassy.gov
 ||addthiscdn.com
 ||addthisedge.com
 ||addtoany.com
+||addtodropbox.com
 ||adelaidenow.com.au
 ||adgoogle.net
 ||adguard-dns.com
@@ -10080,6 +10081,7 @@ iipdigital.usembassy.gov
 ||darwinsource.org
 ||darwinsourcecode.com
 ||dasaob.online
+||dash.ai
 ||dashly.app
 ||dashly.help
 ||dashly.io
@@ -10762,6 +10764,7 @@ iipdigital.usembassy.gov
 ||docs.com
 ||docs.rs
 ||docs.rw
+||docsend.com
 ||doctor-videos.com
 ||documentforce.com
 ||dodgersexcartoons.com
@@ -10924,12 +10927,15 @@ iipdigital.usembassy.gov
 ||dropbox.tech
 ||dropboxbusiness.com
 ||dropboxcaptcha.com
+||dropboxexperiment.com
 ||dropboxforum.com
 ||dropboxforums.com
 ||dropboxinsiders.com
+||dropboxlegal.com
 ||dropboxmail.com
 ||dropboxpartners.com
 ||dropboxstatic.com
+||dropboxteam.com
 ||drpc.org
 ||drtuber.com
 ||drunk6.com
@@ -13923,8 +13929,10 @@ iipdigital.usembassy.gov
 ||heise360181.buzz
 ||heise360182.buzz
 ||helloavgirls.com
+||hellofax.com
 ||hellokittybeats.com
 ||hellomoto.com
+||hellosign.com
 ||hellosmartbook.com
 ||hellporno.com
 ||hellven.net
@@ -16596,6 +16604,7 @@ iipdigital.usembassy.gov
 ||library.lol
 ||librarylovefest.com
 ||libraryofthumbs.com
+||librewolf.dev
 ||librewolf.net
 ||libsolutions.app
 ||libsolutions.domains
@@ -22429,7 +22438,6 @@ iipdigital.usembassy.gov
 ||siteripz.net
 ||situero.com
 ||six9dy.pw
-||sixte.st
 ||sjcollect.com
 ||sjhsp1.buzz
 ||skate2.com
@@ -23502,29 +23510,6 @@ iipdigital.usembassy.gov
 ||teslaenergy.services
 ||teslamotors.com
 ||teslazta.net
-||test-ipv6.alpinedc.ch
-||test-ipv6.arauc.br
-||test-ipv6.belwue.net
-||test-ipv6.carnet.hr
-||test-ipv6.cl
-||test-ipv6.com
-||test-ipv6.cs.umd.edu
-||test-ipv6.csclub.uwaterloo.ca
-||test-ipv6.cz
-||test-ipv6.epic.network
-||test-ipv6.fratec.net
-||test-ipv6.freerangecloud.com
-||test-ipv6.go6.si
-||test-ipv6.hu
-||test-ipv6.is
-||test-ipv6.iu13.net
-||test-ipv6.ke.liquidtelecom.net
-||test-ipv6.noroutetohost.net
-||test-ipv6.roedu.net
-||test-ipv6.se
-||test-ipv6.sin.vr.org
-||test-ipv6.ttk.ru
-||testipv6.de
 ||testonfox.com
 ||tetrika-school.ru
 ||tettediferro.it
@@ -27187,6 +27172,9 @@ iipdigital.usembassy.gov
 ||full:apple.com.akadns.net
 ||full:appleworldwidedeveloper.hb-api.omtrdc.net
 ||full:appleworldwidedeveloper.sc.omtrdc.net
+||full:appsgenaiserver-pa.clients.google.com
+||full:appsgenaiserver-pa.clients6.google.com
+||full:appsgenaiserver-pa.googleapis.com
 ||full:as-dash-uk-live.akamaized.net
 ||full:as-hls-uk-live.akamaized.net
 ||full:asahishimbun.sc.omtrdc.net
@@ -27293,6 +27281,8 @@ iipdigital.usembassy.gov
 ||full:databank.worldbank.org
 ||full:database.asahi.com
 ||full:datarouter.apps.netherrealm.com
+||full:dc.applicationinsights.azure.com
+||full:dc.services.visualstudio.com
 ||full:dcb0z5ovq92mz.cloudfront.net
 ||full:ddacn6pr5v0tl.cloudfront.net
 ||full:ddpjwstwtpszg.cloudfront.net
@@ -27316,6 +27306,7 @@ iipdigital.usembassy.gov
 ||full:doy2mn9upadnk.cloudfront.net
 ||full:dqd0jw5gvbchn.cloudfront.net
 ||full:dqrpb9wgowsf5.cloudfront.net
+||full:dropbox.zendesk.com
 ||full:ds-linear-abematv.akamaized.net
 ||full:ds-vod-abematv.akamaized.net
 ||full:ds0h3roq6wcgc.cloudfront.net
@@ -27421,6 +27412,7 @@ iipdigital.usembassy.gov
 ||full:link.theplatform.com
 ||full:linkedin.sc.omtrdc.net
 ||full:live-patreon-marketing.pantheonsite.io
+||full:live.applicationinsights.azure.com
 ||full:lm.licenses.adobe.com
 ||full:lmlicenses.wip4.adobe.com
 ||full:location.microsoft.com
@@ -27445,7 +27437,6 @@ iipdigital.usembassy.gov
 ||full:mwf-service.akamaized.net
 ||full:na1r.services.adobe.com
 ||full:nbbb1bb7.pmhcjk.com
-||full:netflix.com.edgesuite.net
 ||full:nix-community.github.io
 ||full:notary-submissions-prod.s3-accelerate.amazonaws.com
 ||full:notary-submissions-prod.s3.us-west-2.amazonaws.com
@@ -27565,6 +27556,7 @@ iipdigital.usembassy.gov
 ||full:rsshub.umzzz.com
 ||full:rsshub.woodland.cafe
 ||full:rsshub2.asailor.org
+||full:rt.services.visualstudio.com
 ||full:rtm.tnt-ea.com
 ||full:sa78gs.wpc.edgecastcdn.net
 ||full:scc-hamivideo.cdn.hinet.net
@@ -27649,7 +27641,6 @@ iipdigital.usembassy.gov
 ||full:servd-anthropic-website.b-cdn.net
 ||full:sni1dcb6gl.wpc.edgecastcdn.net
 ||full:spectator.ppy.sh
-||full:spotify.com.edgesuite.net
 ||full:spotify.map.fastly.net
 ||full:spotify.map.fastlylb.net
 ||full:ssl-lvlt.cdn.ea.com
