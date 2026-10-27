@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-27 18:03:51 UTC
+! Generated: 2026-10-27 22:16:13 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -6636,6 +6636,7 @@ iipdigital.usembassy.gov
 ||artel.watch
 ||arteldoc.com
 ||arteldoc.tv
+||artificialanalysis.ai
 ||artixlinux.org
 ||artnudegalleries.com
 ||artoferotica.info
@@ -9523,6 +9524,7 @@ iipdigital.usembassy.gov
 ||clickserve.cc-dt.com
 ||clickserver.googleads.com
 ||climate-server.com
+||cline.bot
 ||clinical-videos.com
 ||clinicalkey.com
 ||clip16.com
@@ -9723,6 +9725,7 @@ iipdigital.usembassy.gov
 ||comixzilla.com
 ||comm-verse.com
 ||commandandconquer.com
+||commandcode.ai
 ||commerceos.com
 ||commerzbank.ru
 ||como-hackearfacebook.com
@@ -9768,6 +9771,7 @@ iipdigital.usembassy.gov
 ||contechacademy.com
 ||contentful.com
 ||contest.com
+||context7.com
 ||convrgencegame.com
 ||cookiebot.com
 ||cookiechoices.org
@@ -17412,6 +17416,7 @@ iipdigital.usembassy.gov
 ||messybrainz.org
 ||messytube.com
 ||met-nude.com
+||metaaiusercontent.com
 ||metabora.io
 ||metabrainz.org
 ||metacloud.com
@@ -19134,6 +19139,7 @@ iipdigital.usembassy.gov
 ||notion.site
 ||notion.so
 ||notionusercontent.com
+||nousresearch.com
 ||novelai.net
 ||noveltrove.com
 ||novids.com
@@ -23671,6 +23677,7 @@ iipdigital.usembassy.gov
 ||thinkboxsoftware.com
 ||thinkdifferent.us
 ||thinkofliving.com
+||thinkorswim.com
 ||thinkquarterly.co.uk
 ||thinkquarterly.com
 ||thirdns.de
