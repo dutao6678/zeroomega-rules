@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-10-30 12:58:18 UTC
+! Generated: 2026-10-30 22:22:25 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -4682,6 +4682,7 @@ iipdigital.usembassy.gov
 ||18comic-god.xyz
 ||18comic.cc
 ||18comic.company
+||18comic.ink
 ||18commic.com
 ||18doujin.com
 ||18doujinshi.xyz
@@ -7875,6 +7876,7 @@ iipdigital.usembassy.gov
 ||bingoporno.com
 ||bingparachute.com
 ||bingsandbox.com
+||bingstatic.com
 ||bingvisualsearch.com
 ||bingworld.com
 ||bingx.com
@@ -13343,6 +13345,7 @@ iipdigital.usembassy.gov
 ||github1s.com
 ||githubapp.com
 ||githubhackathon.com
+||githubhelp.com
 ||githubnext.com
 ||githubpreview.dev
 ||githubstatus.com
@@ -18262,6 +18265,7 @@ iipdigital.usembassy.gov
 ||msfteducation.ca
 ||msftncsi.com
 ||msftnet.org
+||msftstatic.com
 ||msgamesresearch.com
 ||msgamestudios.com
 ||mshome.net
@@ -23756,7 +23760,10 @@ iipdigital.usembassy.gov
 ||tiktokglobalshopv.com
 ||tiktokminis.us
 ||tiktokrow-cdn.com
+||tiktokshop.com
+||tiktokstaticb.com
 ||tiktokv.eu
+||tiktokvapp.com
 ||tiktokw.eu
 ||tiktokw.us
 ||tilda.cc
