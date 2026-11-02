@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-01 22:03:47 UTC
+! Generated: 2026-11-02 06:08:31 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -8108,6 +8108,7 @@ iipdigital.usembassy.gov
 ||bmia.org
 ||bmj.com
 ||bml.info
+||bmonkeys.net
 ||bmw
 ||bmw-abudhabi.com
 ||bmw-adventskalender.com
@@ -8526,6 +8527,7 @@ iipdigital.usembassy.gov
 ||bokep.net
 ||bokepseks.org
 ||bokepvidz.com
+||boldgrid.com
 ||bollywoodlife.com
 ||boltdns.net
 ||bondagecomixxx.net
@@ -9606,6 +9608,7 @@ iipdigital.usembassy.gov
 ||cloudproxy.app
 ||cloudrobotics.com
 ||cloudvolumes.com
+||cloudwp.dev
 ||cloudyzgirl.com
 ||cloupia.com
 ||cloupia.net
@@ -23049,6 +23052,7 @@ iipdigital.usembassy.gov
 ||steaminventoryhelper.com
 ||steamofporn.com
 ||steamos.cloud
+||steampeek.hu
 ||steampowered.com
 ||steamserver.net
 ||steamunlocked.net
@@ -25090,6 +25094,7 @@ iipdigital.usembassy.gov
 ||vodafone.de
 ||vodafone.it
 ||vodafone.nl
+||vodafoneziggo.nl
 ||vokevr.com
 ||vol.moe
 ||volvo
@@ -25472,7 +25477,9 @@ iipdigital.usembassy.gov
 ||webex.de
 ||webex.es
 ||webex.fr
+||webflow-ext.com
 ||webflow.com
+||webflow.io
 ||webgata.net
 ||webgirlsonline.net
 ||webhosting.com
@@ -25490,6 +25497,7 @@ iipdigital.usembassy.gov
 ||webofknowledge.com
 ||webofscience.com
 ||webpass.net
+||website-files.com
 ||webtoons.com
 ||webtoonscorp.com
 ||webtype.com
@@ -27048,6 +27056,7 @@ iipdigital.usembassy.gov
 ||zhtv01.com
 ||zhuzhushipin-app.com
 ||zibacity.com
+||ziggo.nl
 ||ziglang.org
 ||zigzag.kr
 ||zind.cloud
