@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-03 00:59:29 UTC
+! Generated: 2026-11-03 14:18:39 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: B+j/qmkEcuLUqvvaFFWjfQ
+! Checksum: N7S3WsNPqnc3MnyZqkzfIA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 31 Oct 2026 05:12:41 +0000
+! Last Modified: Tue, 03 Nov 2026 11:32:08 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1606,6 +1606,7 @@ iipdigital.usembassy.gov
 ||bigjapanesesex.com
 ||bignews.org
 ||bild.de
+||bilibili.tv
 |http://biliworld.com
 |http://bit.do
 |http://bit.ly
