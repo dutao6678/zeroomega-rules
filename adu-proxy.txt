@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-03 14:18:39 UTC
+! Generated: 2026-11-03 23:24:44 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -7626,6 +7626,7 @@ iipdigital.usembassy.gov
 ||beget.cloud
 ||beget.com
 ||beget.de
+||beget.email
 ||beget.hosting
 ||beget.pro
 ||beget.ru
