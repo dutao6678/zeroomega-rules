@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-03 23:24:44 UTC
+! Generated: 2026-11-04 06:26:04 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -27931,7 +27931,7 @@ iipdigital.usembassy.gov
 ||regexp:(^|\.)783([a-z][a-z]?)?\.tv$
 ||regexp:(^|\.)7mm0([0-1][0-9]?)?\.com$
 ||regexp:(^|\.)8dgo[1-57-9]\.com$
-||regexp:(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+||regexp:(^|\.)91cg([1-9]|[0-9][1-9])?\.com$
 ||regexp:(^|\.)91porna[1-7]?\.com$
 ||regexp:(^|\.)91porn[0-9]?\.store$
 ||regexp:(^|\.)91porn[0-9]{3}\.me$
@@ -27983,6 +27983,7 @@ iipdigital.usembassy.gov
 ||regexp:(^|\.)hkfg[1-7]\.xyz$
 ||regexp:(^|\.)hs[1-9]{2}\.vip$
 ||regexp:(^|\.)jav777\.(cc|tv|work)$
+||regexp:(^|\.)javdb\d+\.com$
 ||regexp:(^|\.)jbk0([0-1][0-9]?)?\.com$
 ||regexp:(^|\.)jb[1-9][0-9]\.lol$
 ||regexp:(^|\.)jdyy[1-9]?\.me$
@@ -28064,7 +28065,6 @@ iipdigital.usembassy.gov
 ||regexp:(^|\.)[a-z][1-9][0-9][a-z]\.com$
 ||regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 ||regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
-||regexp:javdb\d+\.com$
 ||regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 ||regexp:^epicgames-download\d\.akamaized\.net$
 ||regexp:^ewcdn[0-9]+\.nowe\.com$
