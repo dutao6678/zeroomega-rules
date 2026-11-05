@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-04 19:46:59 UTC
+! Generated: 2026-11-05 06:50:05 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: N7S3WsNPqnc3MnyZqkzfIA
+! Checksum: GgM3jnUCSHPpWwrM8CFnwA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 03 Nov 2026 11:32:08 +0000
+! Last Modified: Thu, 05 Nov 2026 06:09:18 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3072,7 +3072,7 @@ iipdigital.usembassy.gov
 ||namu.wiki
 ||nirsoft.net
 ||naver.com
-||maven.neoforged.net
+||neoforged.net
 ||nftstorage.link
 ||newindianexpress.com
 ||news18.com
@@ -16654,6 +16654,9 @@ iipdigital.usembassy.gov
 ||lilhumpers.com
 ||liliav.com
 ||lilith-soft.com
+||limbuscompany.global
+||limbuscompanyapi.com
+||limbuscompanycdn.org
 ||limedia.tw
 ||limelight.com
 ||limer.tw
@@ -18678,7 +18681,6 @@ iipdigital.usembassy.gov
 ||nenastran.com
 ||nenitas.club
 ||nentindo.net
-||neoforged.net
 ||neotokyo.supertop-100.com
 ||neovim.io
 ||neow.in
@@ -20900,6 +20902,7 @@ iipdigital.usembassy.gov
 ||projectcircuitbreaker.com
 ||projecteuclid.org
 ||projectjav.com
+||projectmoon.studio
 ||projectmurphy.net
 ||projectpoint.com
 ||projectpoint.net
@@ -22475,6 +22478,7 @@ iipdigital.usembassy.gov
 ||skills.sh
 ||skillshare.com
 ||skinstrip.net
+||skinswap.com
 ||skokka.com
 ||sksarab.top
 ||skunkgirl.cc
