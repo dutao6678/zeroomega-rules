@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-05 19:58:35 UTC
+! Generated: 2026-11-06 06:50:44 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: GgM3jnUCSHPpWwrM8CFnwA
+! Checksum: ZdAd0wb0iG2fyYWCNL/t7Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 05 Nov 2026 06:09:18 +0000
+! Last Modified: Fri, 06 Nov 2026 02:29:19 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
