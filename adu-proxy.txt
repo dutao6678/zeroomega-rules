@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-07 21:52:40 UTC
+! Generated: 2026-11-08 06:04:15 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -13645,6 +13645,7 @@ iipdigital.usembassy.gov
 ||greenplum.net
 ||greginhollywood.com
 ||gridaware.app
+||grokbot.com
 ||grooby.com
 ||groq.com
 ||group-ib.ae
@@ -27423,6 +27424,7 @@ iipdigital.usembassy.gov
 ||full:homebrew.bintray.com
 ||full:hpefonts.s3.amazonaws.com
 ||full:hpstore.corpmerchandise.com
+||full:http-intake.logs.us5.datadoghq.com
 ||full:hub.slarker.me
 ||full:hulu.playback.edge.bamgrid.com
 ||full:i.jeded.com
@@ -27508,6 +27510,7 @@ iipdigital.usembassy.gov
 ||full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 ||full:nvidia.custhelp.com
 ||full:nvidia.tt.omtrdc.net
+||full:o1158394.ingest.us.sentry.io
 ||full:ocsp.microsoft.com
 ||full:officecdn-microsoft-com.akamaized.net
 ||full:onekey.zendesk.com
@@ -27536,6 +27539,7 @@ iipdigital.usembassy.gov
 ||full:prd-priconne-redive.akamaized.net
 ||full:preprod-publicca.googleapis.com
 ||full:prodforza.blob.core.windows.net
+||full:production-copilot-host-westus.webpubsub.azure.com
 ||full:production-openaicom-storage.azureedge.net
 ||full:productionresultssa0.blob.core.windows.net
 ||full:productionresultssa1.blob.core.windows.net
