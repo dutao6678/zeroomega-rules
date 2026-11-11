@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-10 19:45:11 UTC
+! Generated: 2026-11-11 06:26:19 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -13606,6 +13606,8 @@ iipdigital.usembassy.gov
 ||grabhentai.com
 ||grabpussy.com
 ||gradeuptube.com
+||grafana.com
+||grafana.net
 ||grafolio.com
 ||graias.com
 ||graiasmovies.com
@@ -21085,6 +21087,7 @@ iipdigital.usembassy.gov
 ||quatrowireless.com
 ||quatrum.com.br
 ||quay.io
+||questionablequesting.com
 ||quicinc.com
 ||quickbook.com.br
 ||quickbooks.co.uk
@@ -22786,6 +22789,7 @@ iipdigital.usembassy.gov
 ||soyjak.party
 ||soyjak.st
 ||sp.cool
+||spacebattles.com
 ||spaceexplored.com
 ||spacely.com.au
 ||spacemail.com
@@ -24460,6 +24464,7 @@ iipdigital.usembassy.gov
 ||v-has.com
 ||v.gd
 ||v.ps
+||v2ex.co
 ||v2ph.com
 ||v2ray.cool
 ||v7hds.com
