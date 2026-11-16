@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-15 18:52:44 UTC
+! Generated: 2026-11-16 06:32:51 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -10165,6 +10165,7 @@ iipdigital.usembassy.gov
 ||deasians.com
 ||debank.com
 ||debian.org
+||debot.ai
 ||debugproject.com
 ||decentr.net
 ||dechamora.com
@@ -21387,6 +21388,7 @@ iipdigital.usembassy.gov
 ||reiporno.com
 ||relateiq.com
 ||remirepo.net
+||remna.dev
 ||remna.st
 ||rencapbank.ru
 ||renchead.com
@@ -27243,6 +27245,7 @@ iipdigital.usembassy.gov
 ||full:bnetproduct-a.akamaihd.net
 ||full:bnetshopus.akamaized.net
 ||full:brightcove.imgix.net
+||full:builds.dotnet.microsoft.com
 ||full:bybit-exchange.github.io
 ||full:bybit.ada.support
 ||full:c.ppy.sh
@@ -27345,6 +27348,7 @@ iipdigital.usembassy.gov
 ||full:dmqdd6hw24ucf.cloudfront.net
 ||full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 ||full:docker-pinata-support.s3.amazonaws.com
+||full:dotnetcli.trafficmanager.net
 ||full:doy2mn9upadnk.cloudfront.net
 ||full:dqd0jw5gvbchn.cloudfront.net
 ||full:dqrpb9wgowsf5.cloudfront.net
@@ -27713,6 +27717,7 @@ iipdigital.usembassy.gov
 ||full:steamuserimages-a.akamaihd.net
 ||full:steamvideo-a.akamaihd.net
 ||full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+||full:sundry-star-net-geo.trafficmanager.net
 ||full:supercell.helpshift.com
 ||full:supercell.zendesk.com
 ||full:t.ssp.hinet.net
