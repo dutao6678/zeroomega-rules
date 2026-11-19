@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-18 20:33:39 UTC
+! Generated: 2026-11-19 07:28:40 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -11442,6 +11442,7 @@ iipdigital.usembassy.gov
 ||elephanttubenew.com
 ||elevenlabs.com
 ||elevenlabs.io
+||elevenlabsusercontent.com
 ||elgaronline.com
 ||elifesciences.org
 ||eligens.cl
@@ -26647,7 +26648,6 @@ iipdigital.usembassy.gov
 ||yandexgo.com
 ||yandexlyceum.ru
 ||yandexwebcache.net
-||yandexwebcache.org
 ||yango-b2b.com
 ||yango-team.com
 ||yango-tech.com
