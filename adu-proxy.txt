@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-19 20:39:28 UTC
+! Generated: 2026-11-20 07:19:04 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: u+R6/K90sfuWIbv6zMMT7Q
+! Checksum: 6VkkARnUYys9bCfUvkVaxQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 13 Nov 2026 10:35:53 +0000
+! Last Modified: Fri, 20 Nov 2026 03:36:24 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1936,6 +1936,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||duck.ai
 ||dh.net
 ||divdyn.com
 ||data18.com
@@ -2296,6 +2297,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||gamma.app
 ||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
@@ -2320,7 +2322,6 @@ iipdigital.usembassy.gov
 ||gabocorp.com
 ||gagaoolala.com
 ||galenwu.com
-||game735.com
 |http://wiki.gamerp.jp
 ||gamer.com.tw
 ||gamez.com.tw
@@ -3553,6 +3554,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||soulogic.com
 ||sing-box.sagernet.org
 ||supjav.com
 ||api.shuaiapi.com
@@ -10993,7 +10995,6 @@ iipdigital.usembassy.gov
 ||dtvce.com
 ||dualeotruyen1s.com
 ||dubai-escort-list.com
-||duck.ai
 ||duck.co
 ||duckduckco.com
 ||duckduckco.de
@@ -13030,6 +13031,7 @@ iipdigital.usembassy.gov
 ||gamcore.com
 ||game-platform.net
 ||game-repack.site
+||game735.com
 ||gameapps.hk
 ||gamebanana.com
 ||gamebase.com.tw
