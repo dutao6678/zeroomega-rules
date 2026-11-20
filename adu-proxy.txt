@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-20 07:19:04 UTC
+! Generated: 2026-11-20 20:23:56 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: 6VkkARnUYys9bCfUvkVaxQ
+! Checksum: oKxH6f3iLsNEjF/XGzB8ug
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 20 Nov 2026 03:36:24 +0000
+! Last Modified: Fri, 20 Nov 2026 16:10:15 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1696,6 +1696,9 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cnyes.com
+||cmoney.tw
+||cmmedia.com.tw
 ||console.typesafe.ai
 ||cangku.moe
 ||chineseposters.net
@@ -2059,6 +2062,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||e-info.org.tw
 ||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
@@ -2297,6 +2301,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||greenbean.media
 ||gamma.app
 ||c.go-mpulse.net
 ||getmonero.org
@@ -2433,6 +2438,9 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hkfeature.com
+||hkcourtnews.com
+||hkcitycreation.com
 ||hentaiclub.net
 ||hanimeone.me
 ||hanime1.com
@@ -2800,6 +2808,8 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||limedia.tw
+||lifesitenews.com
 ||linux.sb
 ||level-plus.net
 ||libgen.is
@@ -2888,6 +2898,9 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||my-formosa.com.tw
+||moneynet.com.tw
+||master-insight.com
 ||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
@@ -3058,6 +3071,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nextapple.com
 ||njavtv.com
 ||njav.tv
 ||njav.com
@@ -3245,6 +3259,8 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||pulsehknews.com
+||passiontimes.hk
 ||po-kaki-to.com
 ||perma.cc
 ||pcgamesn.com
@@ -3554,6 +3570,8 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||singpao.com.hk
+||shanghainationalparty.com
 ||soulogic.com
 ||sing-box.sagernet.org
 ||supjav.com
@@ -3797,6 +3815,12 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||thewitnesshk.com
+||thestar.com
+||thestandard.com.hk
+||theonlinecitizen.com
+||thecollectivehk.com
+||taiwantoday.tw
 ||api.themoviedb.org
 ||torrentleech.org
 ||taiav.com
@@ -4253,6 +4277,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||womany.net
 ||wallhaven.cc
 ||wtfpass.com
 ||write.as
@@ -4444,6 +4469,7 @@ iipdigital.usembassy.gov
 ||xxxx.com.au
 |http://xxxymovies.com
 !--------------------YY-------------------------
+||mc.yandex.ru
 ||youversionapi.com
 ||yfsp.tv
 ||youmind.com
@@ -9627,7 +9653,6 @@ iipdigital.usembassy.gov
 ||clzz2.xyz
 ||cm.expert
 ||cmhalq.com
-||cmmedia.com.tw
 ||cmpaas.com
 ||cmrbank.ru
 ||cms-twdigitalassets.com
@@ -9659,7 +9684,6 @@ iipdigital.usembassy.gov
 ||cnnpolitics.com
 ||cnpmjs.org
 ||cnshopin.com
-||cnyes.com
 ||cnzjp.xyz
 ||coalmetbank.ru
 ||cobatt.com
@@ -16666,7 +16690,6 @@ iipdigital.usembassy.gov
 ||limbuscompany.global
 ||limbuscompanyapi.com
 ||limbuscompanycdn.org
-||limedia.tw
 ||limelight.com
 ||limer.tw
 ||limertw.cc
@@ -18822,7 +18845,6 @@ iipdigital.usembassy.gov
 ||nexpart.tv
 ||next.com
 ||next.hk
-||nextapple.com
 ||nextdigital.com.tw
 ||nextechafrica.net
 ||nextfilm.com.hk
@@ -19879,7 +19901,6 @@ iipdigital.usembassy.gov
 ||paskoocheh.com
 ||passage.id
 ||passion-hd.com
-||passiontimes.hk
 ||passport.net
 ||passwordday.org
 ||pastahealth.com
@@ -22446,7 +22467,6 @@ iipdigital.usembassy.gov
 ||singlelogin.me
 ||singlelogin.re
 ||singlelogin.site
-||singpao.com.hk
 ||singtaobooks.com
 ||singtaola.com
 ||singtaonewscorp.com
@@ -23682,7 +23702,6 @@ iipdigital.usembassy.gov
 ||thesims3.com
 ||thesims4.com
 ||thesimssocial.com
-||thestandard.com.hk
 ||thestationbymaker.com
 ||thesun.co.uk
 ||thesun.ie
