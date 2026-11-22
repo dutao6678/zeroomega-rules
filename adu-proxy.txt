@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-21 19:17:46 UTC
+! Generated: 2026-11-22 06:51:29 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -8652,6 +8652,7 @@ iipdigital.usembassy.gov
 ||bravoporn.com
 ||bravoteens.com
 ||bravotube.tv
+||bravotv.com
 ||brawlstars.com
 ||brawlstarsgame.com
 ||brazilpartneruniversity.com
@@ -9628,6 +9629,7 @@ iipdigital.usembassy.gov
 ||cn.fmnnow.com
 ||cn.shafaqna.com
 ||cnbc.com
+||cnbccouncils.com
 ||cnbcfm.com
 ||cnbeta.com
 ||cnbetacdn.com
@@ -12139,6 +12141,7 @@ iipdigital.usembassy.gov
 ||fantasti.cc
 ||fantom.foundation
 ||fantom.network
+||fanza.jp
 ||fap-xxx.com
 ||fap18.net
 ||fap666.com
@@ -12528,6 +12531,7 @@ iipdigital.usembassy.gov
 ||fnlondon.com
 ||fnmt.es
 ||foampositeshoes.com
+||focusfeatures.com
 ||foftolia.com
 ||follasian.com
 ||followpype.com
@@ -13802,6 +13806,7 @@ iipdigital.usembassy.gov
 ||hayabusa.media
 ||hayday.com
 ||haydaygame.com
+||hayu.com
 ||hayya.ae
 ||hbabit.com
 ||hbfile.net
@@ -14180,6 +14185,7 @@ iipdigital.usembassy.gov
 ||hkheadline.com
 ||hkporn.net
 ||hkreadingcity.net
+||hkt
 ||hkt-enterprise.com
 ||hkt-eye.com
 ||hkt.com
@@ -14998,6 +15004,7 @@ iipdigital.usembassy.gov
 ||ilife.gr
 ||ilife.wang
 ||illgames.jp
+||illumination.com
 ||illusion111.com
 ||illusionas.com
 ||illusionchn.com
@@ -18241,7 +18248,6 @@ iipdigital.usembassy.gov
 ||msk.kitazawa.me
 ||msn.com
 ||msn.net
-||msnbc.com
 ||msnewskids.com
 ||msnewskids.net
 ||msnewskids.org
@@ -18589,8 +18595,11 @@ iipdigital.usembassy.gov
 ||nbcolympics.com
 ||nbcsports.com
 ||nbcudigitaladops.com
+||nbcumv.com
 ||nbcuni.com
+||nbcunicareers.com
 ||nbcuniversal.com
+||nbcuniversalprivacy.com
 ||nbdh15.buzz
 ||nbtvpn.com
 ||nbys.tv
@@ -19988,6 +19997,7 @@ iipdigital.usembassy.gov
 ||pbjar1205.pro
 ||pc.com
 ||pca.st
+||pccw
 ||pccw.com
 ||pccwglobal.com
 ||pccwsolutions.com
@@ -21332,6 +21342,7 @@ iipdigital.usembassy.gov
 ||rentaride.de
 ||renzhe.cloud
 ||repe21.com
+||replit.com
 ||repo.new
 ||report-megafon.ru
 ||repotama.com
@@ -23415,6 +23426,7 @@ iipdigital.usembassy.gov
 ||telegram-porn.com
 ||telekom.com
 ||telekom.de
+||telemundo.com
 ||telerik.com
 ||telesec.de
 ||telesell.com
@@ -23837,6 +23849,7 @@ iipdigital.usembassy.gov
 ||toroporno.com
 ||torrentproject.se
 ||torrindex.net
+||tortoisegit.org
 ||tosh.comedycentral.com
 ||tospo-keiba.jp
 ||tospotify.com
@@ -24213,6 +24226,7 @@ iipdigital.usembassy.gov
 ||udndata.com
 ||udnfunlife.com
 ||udtrucksmeena.com
+||udxfpp.com
 ||ueberamazon.de
 ||uflash.tv
 ||uguide.ru
@@ -24273,11 +24287,18 @@ iipdigital.usembassy.gov
 ||united.ru
 ||unity.com
 ||unity3d.com
+||universalbeijingresort.com
+||universalhorrorunleashed.com
+||universalkidsresort.com
 ||universalorlando.com
+||universalpictures.co.uk
 ||universalpictures.com
+||universalpicturesathome.com
 ||universalpicturesinternational.com
+||universalproductsexperiences.com
 ||universalscalablefirmware.org
 ||universalstudioshollywood.com
+||universalukproject.co.uk
 ||universitypressscholarship.com
 ||unkoscene.com
 ||unlocklimitlesslearning.com
@@ -24295,6 +24316,7 @@ iipdigital.usembassy.gov
 ||updatetube.com
 ||upfrontcfd.com
 ||upfrontfea.com
+||uphe.com
 ||upholdjustice.org
 ||upjav.cc
 ||uplay-istrip.com
@@ -24328,6 +24350,7 @@ iipdigital.usembassy.gov
 ||userpxt.io
 ||usersdrive.com
 ||usertrust.com
+||usj.co.jp
 ||usocial.pro
 ||usvimosquito.com
 ||usvimosquitoproject.com
