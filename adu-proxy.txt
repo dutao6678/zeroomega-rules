@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-24 09:56:26 UTC
+! Generated: 2026-11-24 22:28:54 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -8908,6 +8908,7 @@ iipdigital.usembassy.gov
 ||cableav.xyz
 ||cabletv.com.hk
 ||cabletvdirectv.com
+||cachix.org
 ||cacnw.com
 ||cad-mep.com
 ||cadcamsystemsinc.com
@@ -12194,10 +12195,12 @@ iipdigital.usembassy.gov
 ||fastlane.ci
 ||fastlane.tools
 ||fastly-edge.com
+||fastly-insights.com
 ||fastly-terrarium.com
 ||fastly.com
 ||fastly.io
 ||fastly.net
+||fastlydns.net
 ||fastlylabs.com
 ||fastlylb.net
 ||fasttext.cc
@@ -24904,6 +24907,7 @@ iipdigital.usembassy.gov
 ||vitukali.com
 ||viu.tv
 ||vivaxnxx.com
+||vivox.com
 ||vixen.com
 ||vixengroup.com
 ||vixvids.to
@@ -27186,6 +27190,7 @@ iipdigital.usembassy.gov
 ||full:copilot-telemetry.githubusercontent.com
 ||full:copilot-workspace.githubnext.com
 ||full:copilotprodattachments.blob.core.windows.net
+||full:courses.myecnu.org
 ||full:crl.microsoft.com
 ||full:crl.versign.net
 ||full:csis-prod.s3.amazonaws.com
