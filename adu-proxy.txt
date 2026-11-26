@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-25 21:43:29 UTC
+! Generated: 2026-11-26 08:22:18 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -17355,17 +17355,20 @@ iipdigital.usembassy.gov
 ||megacamz.com
 ||megaeth.com
 ||megafilmporno.com
+||megafon.cloud
 ||megafon.com
 ||megafon.ru
 ||megafonpro.ru
 ||megamon.co.kr
 ||megapay.nz
+||megapbx.ru
 ||megaphone.fm
 ||megapornfreehd.com
 ||megaporno.com.br
 ||megapornpics.com
 ||megas4.com
 ||megasrv.de
+||megatech-it.ru
 ||megatitsminka.com
 ||megogo.net
 ||meguso.com
@@ -17429,6 +17432,7 @@ iipdigital.usembassy.gov
 ||mgfn.ru
 ||mgo-images.com
 ||mgo.com
+||mgts.ru
 ||mhcb.ru
 ||mhcbr.ru
 ||mhgui.com
@@ -17949,6 +17953,7 @@ iipdigital.usembassy.gov
 ||mobile.de
 ||mobilefacebook.com
 ||mobileicq.com
+||mobileid.ru
 ||mobileinternational.com
 ||mobilemarketo.com
 ||mobileme.dk
@@ -18302,6 +18307,7 @@ iipdigital.usembassy.gov
 ||mulheresafoder.com
 ||mult34.com
 ||multicurrencycashpassport.com
+||multifon.ru
 ||multiplydiversity.com
 ||multporn.net
 ||muncloud.dog
@@ -19363,6 +19369,7 @@ iipdigital.usembassy.gov
 ||o365weve.com
 ||o3t.ru
 ||o3team.ru
+||o7.com
 ||oaistatsig.com
 ||oanencore.com
 ||oasis.io
@@ -19525,6 +19532,7 @@ iipdigital.usembassy.gov
 ||oninstagram.com
 ||onionshare.org
 ||onkakao.net
+||onlime.ru
 ||online-deals.net
 ||online-instagram.com
 ||online.recoveryversion.org
@@ -21493,6 +21501,7 @@ iipdigital.usembassy.gov
 ||roshy.tv
 ||rossiyasegodnya.com
 ||rostaxi.org
+||rostelecom-rb.ru
 ||rostelecom.ru
 ||roudao6.buzz
 ||roudaosp.cc
@@ -22743,6 +22752,7 @@ iipdigital.usembassy.gov
 ||spasibosberbank.ru
 ||spbexchange.ru
 ||spcc-sp.com
+||spd-mgts.ru
 ||spearhead.kr
 ||spectraltube.com
 ||speeddreamride.com
@@ -26018,6 +26028,7 @@ iipdigital.usembassy.gov
 ||xn--d1abkf4ap.fun
 ||xn--d1acpjx3f.xn--p1ai
 ||xn--d4ty0ojsqzfd.com
+||xn--e1aapchhekkk.xn--p1ai
 ||xn--e1adjldbbpv.xn--90ais
 ||xn--e1aigb.xn--p1ai
 ||xn--fiq80y.hk
