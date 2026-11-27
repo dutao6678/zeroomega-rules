@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-27 08:37:30 UTC
+! Generated: 2026-11-27 21:19:09 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -70,11 +70,11 @@
 ||myfonts.com
 ||fontspring.com
 ! ################ GFWLIST ################
-! Checksum: oKxH6f3iLsNEjF/XGzB8ug
+! Checksum: B+pukUJsG8cHACpSKTZn9Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 20 Nov 2026 16:10:15 +0000
+! Last Modified: Fri, 27 Nov 2026 10:49:03 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1347,6 +1347,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||aicu.cc
 ||livingatlas.arcgis.com
 ||basemaps.arcgis.com
 ||experience.arcgis.com
@@ -1939,6 +1940,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||danmakus.com
 ||duck.ai
 ||dh.net
 ||divdyn.com
@@ -3570,6 +3572,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||spacedesk.net
 ||singpao.com.hk
 ||shanghainationalparty.com
 ||soulogic.com
