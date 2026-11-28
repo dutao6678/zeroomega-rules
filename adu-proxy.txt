@@ -5,7 +5,7 @@
 ! Repository: https://github.com/dutao6678/zeroomega-rules
 ! Upstream 1: https://github.com/gfwlist/gfwlist
 ! Upstream 2: https://github.com/Loyalsoldier/v2ray-rules-dat
-! Generated: 2026-11-27 21:19:09 UTC
+! Generated: 2026-11-28 07:52:10 UTC
 ! ==================================================
 ! ################ ADU CUSTOM RULES ################
 ! ==================================================
@@ -12252,6 +12252,7 @@ iipdigital.usembassy.gov
 ||fc2ppv.tv
 ||fcacebook.com
 ||fcaebook.com
+||fce.gg
 ||fcebook.com
 ||fcebookk.com
 ||fcfacebook.com
@@ -27159,6 +27160,7 @@ iipdigital.usembassy.gov
 ||full:assets.ppy.sh
 ||full:audio-ak-spotify-com.akamaized.net
 ||full:audio4-ak-spotify-com.akamaized.net
+||full:aurora-customization-usw2.lithium.com
 ||full:avatargarenanow-a.akamaihd.net
 ||full:az764295.vo.msecnd.net
 ||full:azure.microsoft.com
